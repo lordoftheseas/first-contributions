@@ -85,6 +85,7 @@
 - [Ketna Khalasi](https://github.com/kentak)
 - [Thomas Esteves]
 - [Tyrion Lannister]
+- [Richard Hendricks]
 - [cryingcavecat]
 - [Craig Oldfield](https://github.com/CraigOldfield)
 - [JANVI MAHAJAN](http://github.com/JanviMahajan14)
